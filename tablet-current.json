@@ -1,8 +1,8 @@
 {
-  "version": "0.1.17",
-  "package": "SGA-Coach-Tablet-Setup-0.1.17.zip",
-  "packageUrl": "https://github.com/Jnewport1021/SGA-Coach-Releases/releases/download/v0.1.29/SGA-Coach-Tablet-Setup-0.1.17.zip",
-  "sha256": "F52DCA55BC54E9164FF493C95B2B89A01BDFE079FD5B7A3CC63A78D0A8BB3949",
-  "size": 69853605,
+  "version": "0.1.18",
+  "package": "SGA-Coach-Tablet-Setup-0.1.18.zip",
+  "packageUrl": "https://github.com/Jnewport1021/SGA-Coach-Releases/releases/download/v0.1.30/SGA-Coach-Tablet-Setup-0.1.18.zip",
+  "sha256": "99AC1516823ECDC88DD82B8E30E29ED24D8AA41DAD4434C82BAA1255821F9BC2",
+  "size": 69853743,
   "setupRelativePath": "Tablet Setup/Provision-SGACoachTablet.ps1"
 }
