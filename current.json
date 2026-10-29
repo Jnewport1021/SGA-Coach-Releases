@@ -1,8 +1,8 @@
 {
-  "version": "0.1.42",
-  "package": "SGACoach-0.1.42-win-x64.zip",
-  "packageUrl": "https://github.com/Jnewport1021/SGA-Coach-Releases/releases/download/v0.1.42/SGACoach-0.1.42-win-x64.zip",
-  "sha256": "F928F4691EC4955962F144035C4B4A353BF07E62442A89C51EF74A76CF72682E",
-  "size": 70006663,
+  "version": "0.1.43",
+  "package": "SGACoach-0.1.43-win-x64.zip",
+  "packageUrl": "https://github.com/Jnewport1021/SGA-Coach-Releases/releases/download/v0.1.43/SGACoach-0.1.43-win-x64.zip",
+  "sha256": "84B73353B8B59034A06C25C15558A17B5A0BCCB1D8EAFBC62AAB52B814F6BB29",
+  "size": 69995489,
   "executable": "SGACoach.exe"
 }
